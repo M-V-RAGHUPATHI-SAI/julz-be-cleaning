@@ -9,20 +9,20 @@ export const businessConfig = {
   "tagline": "Cleaning with care",
   "category": "Judgment-Free home cleaning in Las Vegas \u2014 deep cleans and routine maintenance done with care and zero judgment.",
   "city": "Las Vegas",
-  "primaryColor": "#1C3F3A",
-  "secondaryColor": "#6BBF9E",
+  "primaryColor": "#E84891",
+  "secondaryColor": "#FFDDE8",
   "colors": {
-    "primary": "#1C3F3A",
-    "primaryDark": "#1a3735",
-    "secondary": "#6BBF9E",
-    "dark": "#0A0C29",
-    "lightGray": "#E9EAE8",
-    "cream": "#EBEBE6",
+    "primary": "#E84891",
+    "primaryDark": "#C73A7C",
+    "secondary": "#FFDDE8",
+    "dark": "#1C1B2E",
+    "lightGray": "#FFF0F5",
+    "cream": "#FFF5F9",
     "white": "#ffffff",
     "muted": "#6b7280",
-    "border": "#e5e7eb",
-    "darkRgb": "10, 12, 41",
-    "primaryRgb": "28, 63, 58"
+    "border": "#f9d0e3",
+    "darkRgb": "28, 27, 46",
+    "primaryRgb": "232, 72, 145"
   },
   "fonts": {
     "primary": "Inter",
@@ -538,7 +538,7 @@ export const businessConfig = {
   },
   "chatbot": {
     "enabled": true,
-    "primaryColor": "#1C3F3A",
+    "primaryColor": "#E84891",
     "greeting": "Hi! How can I help you with Julz Be Cleaning today?",
     "suggestedReplies": [
       "What services do you offer?",
