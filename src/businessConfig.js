@@ -1,13 +1,12 @@
 // Julz Be Cleaning — businessConfig
-// Generated: 2026-06-13 00:19
-// Edit freely. Re-run the generator to rebuild from scratch.
+// Images refreshed: 2026-06-13 00:29
 
 export const businessConfig = {
   "name": "Julz Be Cleaning",
   "namePart1": "Julz",
   "namePart2": "Be Cleaning",
   "tagline": "Cleaning with care",
-  "category": "Judgment-Free home cleaning in Las Vegas \u2014 deep cleans and routine maintenance done with care and zero judgment.",
+  "category": "cleaning",
   "city": "Las Vegas",
   "primaryColor": "#E84891",
   "secondaryColor": "#FFDDE8",
@@ -35,7 +34,7 @@ export const businessConfig = {
   "headlineBold": "judgment free home cleaning",
   "heroKeyword": "CLEAN",
   "heroImage": "/hero-generated.jpg",
-  "aboutImage": "https://images.pexels.com/photos/7172854/pexels-photo-7172854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "aboutImage": "https://images.pexels.com/photos/7533846/pexels-photo-7533846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "heroSubtext": "Sparkling clean homes guaranteed",
   "ctaBannerHeadline": "Book your clean now",
   "ctaBannerSubtext": "Get a free quote and schedule your cleaning today",
@@ -289,69 +288,69 @@ export const businessConfig = {
   ],
   "gallery": [
     {
-      "src": "https://images.pexels.com/photos/14408745/pexels-photo-14408745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6782424/pexels-photo-6782424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "luxury apartment after clean"
     },
     {
-      "src": "https://images.pexels.com/photos/28461035/pexels-photo-28461035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7534299/pexels-photo-7534299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "premium lounge clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7534168/pexels-photo-7534168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7061062/pexels-photo-7061062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "office clean Manchester"
     },
     {
-      "src": "https://images.pexels.com/photos/7511744/pexels-photo-7511744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/5891058/pexels-photo-5891058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Interior",
       "alt": "kitchen deep clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7147297/pexels-photo-7147297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6580233/pexels-photo-6580233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "bedroom clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/5511088/pexels-photo-5511088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7218186/pexels-photo-7218186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "commercial space clean"
     },
     {
-      "src": "https://images.pexels.com/photos/28461040/pexels-photo-28461040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/8470038/pexels-photo-8470038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Interior",
       "alt": "bathroom clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/6345073/pexels-photo-6345073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/4098918/pexels-photo-4098918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "living room clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/20314954/pexels-photo-20314954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/8961296/pexels-photo-8961296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "hallway clean result"
     }
   ],
   "videoUrl": "",
   "marqueeImages": [
-    "https://images.pexels.com/photos/14408745/pexels-photo-14408745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/28461035/pexels-photo-28461035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7534168/pexels-photo-7534168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7511744/pexels-photo-7511744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7147297/pexels-photo-7147297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/5511088/pexels-photo-5511088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/28461040/pexels-photo-28461040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/6345073/pexels-photo-6345073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/20314954/pexels-photo-20314954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6782424/pexels-photo-6782424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7534299/pexels-photo-7534299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7061062/pexels-photo-7061062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/5891058/pexels-photo-5891058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6580233/pexels-photo-6580233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7218186/pexels-photo-7218186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8470038/pexels-photo-8470038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/4098918/pexels-photo-4098918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8961296/pexels-photo-8961296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "/service-1-generated.jpg",
     "/service-2-generated.jpg",
     "/service-3-generated.jpg",
     "/service-4-generated.jpg",
     "/service-5-generated.jpg",
     "/service-6-generated.jpg",
-    "https://images.pexels.com/photos/14408745/pexels-photo-14408745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/6782424/pexels-photo-6782424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "beforeAfter": [
     {
@@ -359,48 +358,48 @@ export const businessConfig = {
       "category": "Residential",
       "title": "Move-Out Clean",
       "description": "City centre apartment, Las Vegas",
-      "before": "https://images.pexels.com/photos/8370961/pexels-photo-8370961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/7172854/pexels-photo-7172854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/6551706/pexels-photo-6551706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7533846/pexels-photo-7533846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 2,
       "category": "Residential",
       "title": "Deep Clean",
       "description": "Luxury high-rise, Las Vegas",
-      "before": "https://images.pexels.com/photos/7927258/pexels-photo-7927258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/14408745/pexels-photo-14408745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/31994877/pexels-photo-31994877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/6782424/pexels-photo-6782424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 3,
       "category": "Commercial",
       "title": "Office Clean",
       "description": "Commercial space, Las Vegas",
-      "before": "https://images.pexels.com/photos/7433881/pexels-photo-7433881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/28461035/pexels-photo-28461035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/11982518/pexels-photo-11982518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7534299/pexels-photo-7534299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 4,
       "category": "Residential",
       "title": "End of Tenancy",
       "description": "Apartment complex, Las Vegas",
-      "before": "https://images.pexels.com/photos/8297134/pexels-photo-8297134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/7534168/pexels-photo-7534168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/5357235/pexels-photo-5357235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7061062/pexels-photo-7061062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 5,
       "category": "Interior",
       "title": "Kitchen Restoration",
       "description": "City centre flat, Las Vegas",
-      "before": "https://images.pexels.com/photos/6837645/pexels-photo-6837645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/7511744/pexels-photo-7511744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/6681821/pexels-photo-6681821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/5891058/pexels-photo-5891058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 6,
       "category": "Residential",
       "title": "Post-Renovation",
       "description": "New build, Las Vegas",
-      "before": "https://images.pexels.com/photos/7433878/pexels-photo-7433878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/7147297/pexels-photo-7147297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/1771811/pexels-photo-1771811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/6580233/pexels-photo-6580233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "projects": [
@@ -408,25 +407,25 @@ export const businessConfig = {
       "category": "Residential",
       "title": "Summerlin Home Clean",
       "location": "Summerlin, Las Vegas",
-      "img": "https://images.pexels.com/photos/14408745/pexels-photo-14408745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/6782424/pexels-photo-6782424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Commercial",
       "title": "Downtown Office Clean",
       "location": "Downtown Las Vegas",
-      "img": "https://images.pexels.com/photos/7534168/pexels-photo-7534168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/7061062/pexels-photo-7061062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Residential",
       "title": "Henderson Home Clean",
       "location": "Henderson, Las Vegas",
-      "img": "https://images.pexels.com/photos/28461035/pexels-photo-28461035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/7534299/pexels-photo-7534299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Interior",
       "title": "Bathroom Restoration",
       "location": "Green Valley, Las Vegas",
-      "img": "https://images.pexels.com/photos/7511744/pexels-photo-7511744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/5891058/pexels-photo-5891058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "testimonials": [
