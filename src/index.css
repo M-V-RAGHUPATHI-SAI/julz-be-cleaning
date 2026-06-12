@@ -2,15 +2,15 @@
 
 @theme {
   /* Colors — names match businessConfig.colors keys for JS injection alignment */
-  --color-primary:     #1C3F3A;
-  --color-primaryDark: #142e2a;
-  --color-secondary:   #6BBF9E;
-  --color-dark:        #0A0C29;
-  --color-lightGray:   #E9EAE8;
-  --color-cream:       #EBEBE6;
+  --color-primary:     #E84891;
+  --color-primaryDark: #C73A7C;
+  --color-secondary:   #FFDDE8;
+  --color-dark:        #1C1B2E;
+  --color-lightGray:   #FFF0F5;
+  --color-cream:       #FFF5F9;
   --color-white:       #ffffff;
   --color-muted:       #6b7280;
-  --color-border:      #e5e7eb;
+  --color-border:      #f9d0e3;
 
   /* Fonts — overridden at runtime by main.jsx from businessConfig.fonts */
   --font-sans:    'Inter', system-ui, sans-serif;
